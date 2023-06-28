@@ -47,7 +47,7 @@ class WordBook:
             more = input("input more information:")
             new_date = datetime.datetime.now()
             new_date_str = str(new_date.year)+","+str(new_date.month)+","+str(new_date.day)
-            new_word = Word(raw="", name=name, meaning=new_meaning, more=more, last_visit_date=new_date_str, accuracy=0, visit_times=0)                
+            new_word = Word(raw="", name=name, meaning=new_meaning, more=more, last_visit_date=new_date, accuracy=0, visit_times=0)                
             self.word_dict[name] = new_word
             # write in the markdown file
             with open(self.path, 'r', encoding='utf-8') as file:
@@ -68,7 +68,7 @@ class WordBook:
         input("start review~~~")
         for word in review_ls:
             shuffle_meanings = self.get_shuffle_meanings(word.name, count=3)
-            # os.system('cls')
+            os.system('cls')
             print(word.name)
             shuffle_meanings.append(word.meaning)
             shuffle_meanings = random.sample(shuffle_meanings, 4)
@@ -88,9 +88,11 @@ class WordBook:
                 word.update(1)
             else:
                 print("Wrong🤦‍♂️")
+                print("More Information:", word.more)
                 # update the word 
                 word.update(0)
             self.word_dict[word.name] = word
+            input("Enter to continue~")
 
             
 
@@ -139,12 +141,18 @@ class WordBook:
         random_values = random.sample(shuffle_meanings, count)
         return random_values
 
-    def store(self):
-        lines = []        
+    def store(self, new_path = None):
+        lines = ["| Word      | Meaning       | More | last_visit_date | accuracy | visit_times |\n| --------- | ------------- | ---- | --------------- | -------- | ----------- |\n"]        
         for word in self.word_dict.values():
-            lines.append("| "+word.name+" | "+word.meaning+" | "+word.more+" | "+word.last_visit_date+" | "+ word.accuracy+" | "+word.visit_times+" |\n")
-        with open(self.path, 'w', encoding='utf-8') as file:
-            file.writelines(lines)
+            date_str = str(word.last_visit_date.year)+","+str(word.last_visit_date.month)+","+str(word.last_visit_date.day)
+            lines.append("| "+word.name+" | "+word.meaning+" | "+word.more+" | "+date_str+" | "+ str(word.accuracy)+" | "+str(word.visit_times)+" |\n")
+        print(lines)
+        if new_path != None:
+            with open(new_path, 'w', encoding='utf-8') as file:
+                file.writelines(lines)
+        else:
+            with open(self.path, 'w', encoding='utf-8') as file:
+                file.writelines(lines)
 
 
 class Word:
@@ -198,6 +206,14 @@ if __name__ == "__main__":
         if tmp_key == "R":
             wordbook.review()
         if tmp_key == "S":
-            wordbook.store()
-        tmp_key = input("Press:\nA: to add~\nR: to review~\nQ: to quit~\n")
+            new_path = input("New path (enter o to overwrite on original):")
+            if new_path == "o":
+                wordbook.store()
+            else:
+                wordbook.store(new_path)
+        tmp_key = input("Press:\n\
+                        A: to add~\n\
+                        R: to review~\n\
+                        S: to save the dictionary now~\n\
+                        Q: to quit~\n")
 
