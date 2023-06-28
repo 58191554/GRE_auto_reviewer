@@ -1,7 +1,6 @@
 # GRE_auto_reviewer
 words will be collected in words.md following the table order.
-Some instructions now implemented.
-
+Some instructions now implemented.\n
                         `A`: to add word~\n\
                         `R`: to review~\n\
                         `S`: to save the dictionary now~\n\
