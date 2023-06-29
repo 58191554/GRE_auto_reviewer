@@ -416,8 +416,97 @@
 | facile | adj表面的，浅尝辄止 | 还有一个意思，唾手可得的，容易的 | 2023,6,29 | 0.0 | 0 |
 | superficial | adj肤浅的 |  | 2023,6,29 | 0.0 | 0 |
 | hearken | v倾听，关注 | heart be keen on 热心的听 | 2023,6,29 | 0.0 | 0 |
-| supercilious | adj傲慢的 | super+cil[cilia睫毛]高高的睫毛，傲慢的 | 2023,6,29 | 0 | 0 |
-| acerbic | adj尖酸的 |  | 2023,6,29 | 0 | 0 |
-| acme | n顶点 | n最佳典范 | 2023,6,29 | 0 | 0 |
-| acrid | adj辛辣的，刺鼻的，刻薄的 | ac[尖的，锋利的] | 2023,6,29 | 0 | 0 |
-| acrimonious | adj刻薄的，充满仇恨的 | ac[尖的，锋利的] | 2023,6,29 | 0 | 0 |
+| supercilious | adj傲慢的 | super+cil[cilia睫毛]高高的睫毛，傲慢的 | 2023,6,29 | 0.0 | 0 |
+| acerbic | adj尖酸的 |  | 2023,6,29 | 0.0 | 0 |
+| acme | n顶点 | n最佳典范 | 2023,6,29 | 0.0 | 0 |
+| acrid | adj辛辣的，刺鼻的，刻薄的 | ac[尖的，锋利的] | 2023,6,29 | 0.0 | 0 |
+| acrimonious | adj刻薄的，充满仇恨的 | ac[尖的，锋利的] | 2023,6,29 | 0.0 | 0 |
+| exacerbate | v使加剧，使恶化 | acerb[acerbic]酸的，动词化->酸化和腐蚀化的过程->使加剧，恶化 | 2023,6,29 | 0.0 | 0 |
+| acumen | n不同寻常的洞察力和鉴别力 | （思维）锐利敏捷 | 2023,6,29 | 0.0 | 0 |
+| acute | adj敏锐的，严重的，急性的 |  | 2023,6,29 | 0.0 | 0 |
+| eminent | adj杰出的 | emit发射，发射出去的人，杰出的人 | 2023,6,29 | 0.0 | 0 |
+| menace | v威胁，使处于危险 |  | 2023,6,29 | 0.0 | 0 |
+| menial | adj卑贱的，低下的，n仆人 | men[min, small] | 2023,6,29 | 0.0 | 0 |
+| mince | v小步走,切碎 | min【small】+ ce[pieces]小片 = 切碎 | 2023,6,29 | 0.0 | 0 |
+| minimize | v表示鄙夷，刻意低估 |  | 2023,6,29 | 0.0 | 0 |
+| miniscule | adj极小的 |  | 2023,6,29 | 0.0 | 0 |
+| minute | adj小的，不重要的，仔细的，谨小慎微的 | minutia n 次要的小事 | 2023,6,29 | 0.0 | 0 |
+| preeminent | adj优秀的，重要的 | pre + eminent[杰出的] | 2023,6,29 | 0.0 | 0 |
+| compunction | n焦虑，内疚，良心不安 | com[completely] + punct[prick刺痛] = 心被刺痛，如坐针毡 = 焦虑，内疚，良心不安 | 2023,6,29 | 0.0 | 0 |
+| pinnacle | n顶峰 | pin针 | 2023,6,29 | 0.0 | 0 |
+| pinpoint | adj非常精准的 | pin 针 point尖 | 2023,6,29 | 0.0 | 0 |
+| pointer | n忠告， 建议 |  | 2023,6,29 | 0.0 | 0 |
+| punctilious | adj注意细节的，一丝不苟的 | punct[prik刺]注意到像刺一样的微小事物 | 2023,6,29 | 0.0 | 0 |
+| pungent | adj辛辣的，讽刺的 | pung[punct,prick]有刺的 | 2023,6,29 | 0.0 | 0 |
+| distinctive | adj完全不同的，特征的，典型的 |  | 2023,6,29 | 0.0 | 0 |
+| extinguish | v熄灭终止 | extinct灭绝 | 2023,6,29 | 0.0 | 0 |
+| instigate | v激起，煽动 | insti gate[agitate] | 2023,6,29 | 0.0 | 0 |
+| prestige | n声望，威望 |  | 2023,6,29 | 0.0 | 0 |
+| stickler | n一丝不苟的人 | stick[坚持] ler[人] | 2023,6,29 | 0.0 | 0 |
+| stiff | adj坚硬的，无法弯曲的，adj在社交场合缺乏优雅不自在的，adj过分的，过高的 | adj艰苦的，费力的；stick[被钉子钉死了]动弹不得，特别使在社交场合 | 2023,6,29 | 0.0 | 0 |
+| stifle | v扼杀，阻止，抑制 |  | 2023,6,29 | 0.0 | 0 |
+| stigma | n耻辱，污名 |  | 2023,6,29 | 0.0 | 0 |
+| stingy | adj小气的，吝啬的，极少的 |  | 2023,6,29 | 0.0 | 0 |
+| stipple | v（雕塑，雕刻）点刻，用点标记 | stick刺 | 2023,6,29 | 0.0 | 0 |
+| stipulate | v特定要求，规定 | sti[stick钉子] + pulate[regulation] 定下来的规则 | 2023,6,29 | 0.0 | 0 |
+| stitch | n突然剧痛 | stick ouch | 2023,6,29 | 0.0 | 0 |
+| oxymoron | n矛盾修饰法 | moron傻瓜 | 2023,6,29 | 0.0 | 0 |
+| paroxysm | n（感情）突发，（政治）大动荡 |  | 2023,6,29 | 0.0 | 0 |
+| peck | v（不情愿的）小口咬 | 只因啄食物 | 2023,6,29 | 0.0 | 0 |
+| pique | v使愤怒，激起，刺激 | piquant adj辛辣开胃的，令人振奋的 | 2023,6,29 | 0.0 | 0 |
+| antagonize | v与...敌对，反感，激怒 |  | 2023,6,29 | 0.0 | 0 |
+| paragon | n优秀模范 | v把...比作 | 2023,6,29 | 0.0 | 0 |
+| alleviate | v 缓和，减轻 | al + lev[raise] + iate举起压在上面的东西 | 2023,6,29 | 0.0 | 0 |
+| elevate | v提升 |  | 2023,6,29 | 0.0 | 0 |
+| leaven | v在...中加入了轻松，活泼或者变更的因素 | leaven酵母 | 2023,6,29 | 0.0 | 0 |
+| levity | n轻浮 | lev[raise]容易举起 | 2023,6,29 | 0.0 | 0 |
+| relevant | adj重要的 |  | 2023,6,29 | 0.0 | 0 |
+| aloft | adj在空中 | loft[高] | 2023,6,29 | 0.0 | 0 |
+| aloof | adj高冷的 | aloft在空中 | 2023,6,29 | 0.0 | 0 |
+| lofty | adj高的，自大的 | loft[高] | 2023,6,29 | 0.0 | 0 |
+| aggravate | v加重，恶化 | ag[act] + grav[heavy] + ate[v.] 使（病情）加重了 | 2023,6,29 | 0.0 | 0 |
+| aggrieve | v使感到悲痛 | ag[to] griev[grav, heavy]使感到沉重， | 2023,6,29 | 0.0 | 0 |
+| brevity | n简短，简洁，精炼 | brev[brief] | 2023,6,29 | 0.0 | 0 |
+| abbreviate | v缩写 | A | 2023,6,29 | 0.0 | 0 |
+| abridge | v缩小，缩短，v在不改变原来内容（条件）下删短语句 | a + bridge[桥]缩短两地距离 | 2023,6,29 | 0.0 | 0 |
+| prolong | v延长，拖延 |  | 2023,6,29 | 0.0 | 0 |
+| linger | v磨蹭，闲荡 |  | 2023,6,29 | 0.0 | 0 |
+| absolute | adj（君主）专制的，无限的，完美的， |  | 2023,6,29 | 0.0 | 0 |
+| absolve | 使无罪 | ab[away] + solv[loosen] + e = loosen away from guilt 使无罪 | 2023,6,29 | 0.0 | 0 |
+| dissolute | adj放荡的，无节制的 | dis[apart] + solut[loosen] （行为）松散，无拘束 | 2023,6,29 | 0.0 | 0 |
+| dissolve | v溶解，融化，解散，废除，撤销 |  | 2023,6,29 | 0.0 | 0 |
+| resolute | adj坚定的 |  | 2023,6,29 | 0.0 | 0 |
+| solvent | adj有偿付能力的 | n溶剂 | 2023,6,29 | 0.0 | 0 |
+| constrain | v使人屈服于（压力，感情）等 |  | 2023,6,29 | 0.0 | 0 |
+| restrain | v限制，控制 | restrict | 2023,6,29 | 0.0 | 0 |
+| constrict | v压缩压紧 |  | 2023,6,29 | 0.0 | 0 |
+| stricture | n责难，批评 | strict严厉的 | 2023,6,29 | 0.0 | 0 |
+| stringent | adj紧绷的，严格的 |  | 2023,6,29 | 0.0 | 0 |
+| constringe | v使紧缩 | con[together] +string[拉紧] | 2023,6,29 | 0.0 | 0 |
+| hamstring | v使无力 |  | 2023,6,29 | 0.0 | 0 |
+| egalitarian | adj平等主义的 |  | 2023,6,29 | 0.0 | 0 |
+| equable | adj（脾气）温和的 | equ[equal] + able = 情绪稳定的 | 2023,6,29 | 0.0 | 0 |
+| equilibrium | n平衡，平静 |  | 2023,6,29 | 0.0 | 0 |
+| deliberate | adj深思熟虑的 |  | 2023,6,29 | 0.0 | 0 |
+| equity | n. 不偏不倚，公正 |  | 2023,6,29 | 0.0 | 0 |
+| iniquity | n邪恶，不公正 | in[not] + iquity[equity]不公正 | 2023,6,29 | 0.0 | 0 |
+| parity | n相称，同等，平等 |  | 2023,6,29 | 0.0 | 0 |
+| disparate | adj迥然不同的 | dis + par[parity相称，相同] = 迥然不同的 | 2023,6,29 | 0.0 | 0 |
+| simile | n明喻 |  | 2023,6,29 | 0.0 | 0 |
+| simulate | v模拟 |  | 2023,6,29 | 0.0 | 0 |
+| alienate | v让渡 | v使疏远 | 2023,6,29 | 0.0 | 0 |
+| inalienable | adj不可剥夺的 | in[not] + ali[another] +enable=不能让别人得逞的，不可剥夺的 | 2023,6,29 | 0.0 | 0 |
+| alibi | n不在场证明，托词，借口 | ali[another] + bi[be] = in another place | 2023,6,29 | 0.0 | 0 |
+| altruism | n利他主义 | altr[aonther]别人主义 = 利他主义 | 2023,6,29 | 0.0 | 0 |
+| adulterate | v参水，加入低等成分 | ad[to] + ulter[alter,another] + ate = 加入低等成分 | 2023,6,29 | 0.0 | 0 |
+| abnegate | v否定，投降，放弃 |  | 2023,6,29 | 0.0 | 0 |
+| negation | n否定 |  | 2023,6,29 | 0.0 | 0 |
+| negligent | adj疏忽大意的 | neglect v忽视 | 2023,6,29 | 0.0 | 0 |
+| renege | v放弃 | renegade叛徒 | 2023,6,29 | 0.0 | 0 |
+| intangible | adj无法感知的 | in[not] + tang[touch] + ible触摸不到的，无法感知 | 2023,6,30 | 0.0 | 0 |
+| tangent | adj不相关的，离题的 | 切线，离开了曲线 | 2023,6,30 | 0.0 | 0 |
+| contagious | adj传染的，引起共鸣的 | con[together] + tag[touch] 通过共同的接触传染有感染力的，引申为引起共鸣的 | 2023,6,30 | 0.0 | 0 |
+| integral | adj完整的 |  | 2023,6,30 | 0.0 | 0 |
+| contiguous | adj接壤，临近的 | con[together] + tig[touch | 2023,6,30 | 0.0 | 0 |
+| affinity | n喜欢，倾向 | af[to] + fin[border,end] + ity[n.] to border靠近，喜欢倾向 | 2023,6,30 | 0.0 | 0 |
+| confine | v限制，禁闭，监禁 | con[加强] + fin[border] | 2023,6,30 | 0.0 | 0 |
