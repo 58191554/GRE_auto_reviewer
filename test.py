@@ -2,8 +2,53 @@ import os
 import datetime
 import random
 
+class HistoryBook:
+    def __init__(self, path = "history.md"):
+        self.path = path
+        self.today = None
+        self.load_today()
+    
+    def load_today(self):
+        with open(self.path, 'r', encoding='utf-8') as file:
+            lines = file.readlines()
+            today_raw = lines[-1]
+            if(today_raw == "\n"):
+                lines.pop()
+                today_raw = lines[-1]
+        self.today = DateData(today_raw)
+        print(self.today.date, self.today.new_num, self.today.review_num)
+        if(self.today.date != datetime.datetime.now().date()):
+            self.today.date = datetime.datetime.now().date()
+            self.today.new_num = 0
+            self.today.review_num = 0
+
+            with open(self.path, "w", encoding='utf-8') as file_overwrite:
+                new_date_str = str(self.today.date.year)+","+str(self.today.date.month)+","+str(self.today.date.day)
+                lines.append("|" + new_date_str + "|"+str(self.today.new_num)+"|"+str(self.today.review_num)+"|")
+                file_overwrite.writelines(lines)
+
+    def store_today(self):
+        
+        with open(self.path, 'r', encoding='utf-8') as file:
+            lines = file.readlines()
+            
+            with open(self.path, "w", encoding='utf-8') as file_overwrite:
+                new_date_str = str(self.today.date.year)+","+str(self.today.date.month)+","+str(self.today.date.day)
+                lines[-1] = "|" + new_date_str + "|"+str(self.today.new_num)+"|"+str(self.today.review_num)+"|"
+                file_overwrite.writelines(lines)
+
+class DateData:
+    def __init__(self, raw:str):
+        data = raw.split("|")
+        date_str = data[1].strip()
+        self.new_num = int(data[2].strip())
+        self.review_num = int(data[3].strip())
+        date_arr = date_str.split(",")
+        self.date = datetime.date(year = int(date_arr[0]), month = int(date_arr[1]), day = int(date_arr[2]))
+        print("fuck",self.date)
+
 class WordBook:
-    def __init__(self, path:str, word_dict:dict = None):
+    def __init__(self, path:str, history:HistoryBook, word_dict:dict = None):
         self.path = path
         self.word_dict = word_dict
         if word_dict != None:
@@ -11,6 +56,7 @@ class WordBook:
         else:
             self.word_dict = {}
             self.load_dict()
+        self.history = history
 
     '''
     Load the markdown file from the give path
@@ -56,6 +102,9 @@ class WordBook:
                 with open(self.path, 'w', encoding='utf-8') as file:
                     lines.append("| "+name+" | "+new_meaning+" | "+more+" | "+new_date_str+" | "+ "0"+" | "+"0"+" |\n")
                     file.writelines(lines)
+        
+        self.history.today.new_num+=1
+        self.history.store_today()
 
     '''
     review by the importance
@@ -85,6 +134,7 @@ class WordBook:
                 again = input("Exit? [y/n]")
                 if again == "y":
                     self.store()
+                    self.history.store_today()
                     break
             if keyin==str(answer):
                 print("Correct!")
@@ -98,6 +148,7 @@ class WordBook:
             print("More Info: ", word.more)
             self.word_dict[word.name] = word
             input("Enter to continue~")
+            self.history.today.review_num += 1
 
 
     '''
@@ -213,7 +264,8 @@ BULLETIN  = "\
     "       
 
 if __name__ == "__main__":
-    wordbook = WordBook(path = "words.md")
+    historybook = HistoryBook()
+    wordbook = WordBook(path = "words.md", history=historybook)
     wordbook.load_dict()
     os.system('cls')
     tmp_key = input(BULLETIN)
@@ -226,7 +278,7 @@ if __name__ == "__main__":
             new_path = input("New path (enter o to overwrite on original):")
             if new_path == "o":
                 wordbook.store()
-            else:
+    #         else:
                 wordbook.store(new_path)
         if tmp_key == "rst":
             auth = input("Input 'I want to reset'")
