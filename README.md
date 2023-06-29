@@ -1,5 +1,7 @@
 # GRE-AutoReviewer
-
+```
+python .\test.py
+```
 自动复习单词，加入的单词将自动保存在words.md. 
 
 Review-by-Importance公式：
