@@ -81,12 +81,18 @@ class WordBook:
                 self.word_dict[word.name] = word
 
     def add_word(self):
+        print("TODAY: new word=",self.history.today.new_num,", review word=", self.history.today.review_num)
         name = input("input the name of the word:")
         if name == "q":
             print("~QUIT~")
             return
         if name in self.word_dict:
             print("the word exist")
+            print(name)
+            print(self.word_dict[name].meaning)
+            print(self.word_dict[name].more)
+            input("Enter to continue~")
+            
         else:
             new_meaning = input("input the meaning of the word:")
             more = input("input more information:")
@@ -102,25 +108,32 @@ class WordBook:
                 with open(self.path, 'w', encoding='utf-8') as file:
                     lines.append("| "+name+" | "+new_meaning+" | "+more+" | "+new_date_str+" | "+ "0"+" | "+"0"+" |\n")
                     file.writelines(lines)
-        
-        self.history.today.new_num+=1
-        self.history.store_today()
+            self.history.today.new_num+=1
+            self.history.store_today()
+
 
     '''
     review by the importance
     '''
-    def review(self):
+    def review(self, batch_size = 50):
         self.load_dict()
         # calculate the importance
         review_ls =  self.get_review_ls()
         input("start review~~~")
+        cnt = 0
         for word in review_ls:
+            cnt += 1
+            if cnt > batch_size:
+                break
             shuffle_meanings = self.get_shuffle_meanings(word.name, count=3)
             os.system('cls')
-            print(word.name)
+            print("TODAY: new word=",self.history.today.new_num,", review word=", self.history.today.review_num)
+            print(word.name, "(", cnt, "/", batch_size, ")")
             shuffle_meanings.append(word.meaning)
             shuffle_meanings = random.sample(shuffle_meanings, 4)
             answer = shuffle_meanings.index(word.meaning)+1
+
+            input("Remind yourself first!😊")
 
             print("1)", shuffle_meanings[0])            
             print("2)", shuffle_meanings[1])            
@@ -177,7 +190,6 @@ class WordBook:
             normalized_dates = [(max_date - tmp_date)/date_range for tmp_date in dates]
             importance_arr = [normalized_dates[i] + (1-accuracies[i]) for i in range(len(words))]
         else: 
-            print("fuck")
             importance_arr = [(1-accuracies[i]) for i in range(len(words))]
         sorted_indexes = sorted(range(len(importance_arr)), key=lambda i: importance_arr[i], reverse=True)
         importnace_words = [words[i] for i in sorted_indexes]
@@ -278,7 +290,7 @@ if __name__ == "__main__":
             new_path = input("New path (enter o to overwrite on original):")
             if new_path == "o":
                 wordbook.store()
-    #         else:
+            else:
                 wordbook.store(new_path)
         if tmp_key == "rst":
             auth = input("Input 'I want to reset'")
