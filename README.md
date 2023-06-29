@@ -1,4 +1,5 @@
 # GRE-AutoReviewer
+How to run?
 ```
 python .\test.py
 ```
@@ -15,6 +16,7 @@ $$
 | `A`       | 加入单词 |
 | `Q`       | 退出·    |
 | `R`       | 复习     |
+| `S`       | 保存     |
 | `rst`     | 重置     |
 
 可以在history.md中查看每天的学习量，包括新的加入的单词，和今天复习的单词
