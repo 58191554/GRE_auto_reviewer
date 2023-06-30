@@ -29,24 +29,24 @@
 | incentive | n. 刺激，诱因 | incantation咒语， | 2023,6,29 | 1.0 | 1 |
 | doctrinaire | adj.教条主义的，照本宣科的 | doctrin[doctrine]教条 | 2023,6,29 | 1.0 | 1 |
 | indoctrinated | v.灌输思想 | in[in] doctirne | 2023,6,29 | 1.0 | 1 |
-| heterodox | adj. 异端的 |  | 2023,6,29 | 0.0 | 0 |
-| orthodox | adj. 传统的 |  | 2023,6,29 | 0.0 | 0 |
+| heterodox | adj. 异端的 |  | 2023,6,30 | 1.0 | 1 |
+| orthodox | adj. 传统的 |  | 2023,6,30 | 0.0 | 1 |
 | paradox | n. 矛盾的 |  | 2023,6,29 | 0.0 | 0 |
 | vindictive | adj. 复仇的 | vin[win]+dict[say] 宣称要赢=复仇♥很强 | 2023,6,29 | 0.0 | 0 |
-| decry | v.强烈的否定 | de[intensify]+cry哭超大声=反对 | 2023,6,29 | 0.0 | 0 |
-| euphemism | n. 委婉的说法 | eu[好的]+phem[phon] | 2023,6,29 | 0.0 | 0 |
+| decry | v.强烈的否定 | de[intensify]+cry哭超大声=反对 | 2023,6,30 | 1.0 | 1 |
+| euphemism | n. 委婉的说法 | eu[好的]+phem[phon] | 2023,6,30 | 1.0 | 1 |
 | sound | 不可动摇的 |  | 2023,6,29 | 0.0 | 0 |
 | absurd | adj.不合理的 | ab[away]+surd[sound]听起来离谱 | 2023,6,29 | 0.0 | 0 |
 | captious | adj. 吹毛求疵的 | capt[seize] | 2023,6,29 | 0.0 | 0 |
 | inception | n.开端 |  | 2023,6,29 | 0.0 | 0 |
-| exceptional | adj.例外的 | 例外的，非凡的 | 2023,6,29 | 0.0 | 0 |
+| exceptional | adj.例外的 | 例外的，非凡的 | 2023,6,30 | 1.0 | 1 |
 | captivate | v.吸引 | capt[抓住【 | 2023,6,29 | 0.0 | 0 |
 | unexceptionable | adj.无懈可击的 |  | 2023,6,29 | 0.0 | 0 |
-| perceptible | adj 可以察觉的 | 可以察觉的 | 2023,6,29 | 0.0 | 0 |
+| perceptible | adj 可以察觉的 | 可以察觉的 | 2023,6,30 | 1.0 | 1 |
 | perceptive | adj.敏锐的 | perception洞察力 | 2023,6,29 | 0.0 | 0 |
 | susceptibility | n.易受感染的性质或状态 | sus[在下面]cept[take] | 2023,6,29 | 0.0 | 0 |
-| disciple | n.信徒 | dis[away]+cip[take]拿走教义的人 | 2023,6,29 | 0.0 | 0 |
-| emancipate | v.解放 |  | 2023,6,29 | 0.0 | 0 |
+| disciple | n.信徒 | dis[away]+cip[take]拿走教义的人 | 2023,6,30 | 1.0 | 1 |
+| emancipate | v.解放 |  | 2023,6,30 | 1.0 | 1 |
 | incipient | adj.起初的 | inception 开端 | 2023,6,29 | 0.0 | 0 |
 | principal | adj.重要的，主要的 |  | 2023,6,29 | 0.0 | 0 |
 | preoccupation | n. 非常关心，全神贯注 |  | 2023,6,29 | 0.0 | 0 |
@@ -57,22 +57,22 @@
 | preempt | 抢先找有，预先占有 | pre[before]empt[take] | 2023,6,29 | 0.0 | 0 |
 | presumptuous | adj. 放肆的傲慢的 | pre[before]sumpt[assumption]在假设前就妄下论调=狂妄的 | 2023,6,29 | 0.0 | 0 |
 | sumptuous | adj. 奢华的 | consumer 消费者 | 2023,6,29 | 0.0 | 0 |
-| comprehend | v了解包含包括 |  | 2023,6,29 | 0.0 | 0 |
+| comprehend | v了解包含包括 |  | 2023,6,30 | 1.0 | 1 |
 | apprehension | n. 忧虑，恐惧，逮捕，理解 | prehens[抓住]+he[heart]抓心的=恐惧忧虑，逮捕 | 2023,6,29 | 0.0 | 0 |
 | apprehensive | adj.知晓的，恐惧的，理解的，害怕的 | apprenhension | 2023,6,29 | 0.0 | 0 |
 | misapprehension | n.错苏的理解判断 |  | 2023,6,29 | 0.0 | 0 |
-| reprehend | v.谴责，责难，批评 | re[反复]+prehend[抓]=反复抓你毛病，责难 | 2023,6,29 | 0.0 | 0 |
+| reprehend | v.谴责，责难，批评 | re[反复]+prehend[抓]=反复抓你毛病，责难 | 2023,6,30 | 0.0 | 1 |
 | apprise | v. 通知 |  | 2023,6,29 | 0.0 | 0 |
 | comprise | v.构成包含 |  | 2023,6,29 | 0.0 | 0 |
 | rapt | adj。全神贯注的 | rapt[抓住] | 2023,6,29 | 0.0 | 0 |
 | rapacious | adj.过度贪婪的 | rap[抓住]抓住了太多，欲望过剩 | 2023,6,29 | 0.0 | 0 |
-| ravenous | adj.贪婪的，食量大的 | raven乌鸦 | 2023,6,29 | 0.0 | 0 |
+| ravenous | adj.贪婪的，食量大的 | raven乌鸦 | 2023,6,30 | 1.0 | 1 |
 | surreptitious | adj偷偷摸摸的 | sur[下面]+rept[抓住]抓住你下面=偷偷摸摸的 | 2023,6,29 | 0.0 | 0 |
 | abstract | v. 总结 |  | 2023,6,29 | 0.0 | 0 |
 | contract | n。合同，收缩，感染疾病 | con[together] track[draw]拉到一起 | 2023,6,29 | 0.0 | 0 |
-| detract | v.贬低，降低价值 | de[down]+tract[draw拉]=向下拉 | 2023,6,29 | 0.0 | 0 |
+| detract | v.贬低，降低价值 | de[down]+tract[draw拉]=向下拉 | 2023,6,30 | 0.0 | 1 |
 | distraught | adj. 精神疯狂的 | distract的过去式，分心到精神疯狂 | 2023,6,29 | 0.0 | 0 |
-| distract | v.转移注意力，使分心 | dis[away]+tract[拉走] | 2023,6,29 | 0.0 | 0 |
+| distract | v.转移注意力，使分心 | dis[away]+tract[拉走] | 2023,6,30 | 1.0 | 1 |
 | extract | v.用力拔出 | tract【拔出】 | 2023,6,29 | 0.0 | 0 |
 | extraction | n 血统 | extract 抽出，抽出一个人where come from | 2023,6,29 | 0.0 | 0 |
 | protract | v. 延长 |  | 2023,6,29 | 0.0 | 0 |
@@ -510,3 +510,217 @@
 | contiguous | adj接壤，临近的 | con[together] + tig[touch | 2023,6,30 | 0.0 | 0 |
 | affinity | n喜欢，倾向 | af[to] + fin[border,end] + ity[n.] to border靠近，喜欢倾向 | 2023,6,30 | 0.0 | 0 |
 | confine | v限制，禁闭，监禁 | con[加强] + fin[border] | 2023,6,30 | 0.0 | 0 |
+| finale | n终局，结局 | fin[final] + e[n.] = 最终 | 2023,6,30 | 0.0 | 0 |
+| animate | adj有活力的，v使有活力，支持，v活灵活现，栩栩如生，使驱动驱使 | anim[life]词根 | 2023,6,30 | 0.0 | 0 |
+| inanimate | adj无生命的 | animate | 2023,6,30 | 0.0 | 0 |
+| unanimous | adj一致同意的 | un(i)[one,同一] + anim[life] + ous = 万众一心 -> adj一致同意的 | 2023,6,30 | 0.0 | 0 |
+| adumbrate | v预示着，部分揭露，有保留的揭露 | ad[to] + umbr[umbrella, shadow] + ate[v.] = 给一些影子的轮廓 | 2023,6,30 | 0.0 | 0 |
+| umbrage | n 不悦，生气 | umbr[shadow] + age = 活在阴影中 = 不悦，愠怒 | 2023,6,30 | 0.0 | 0 |
+| overshadow | v使...黯然失色， 超过，超越 | over[在上面] + shadow[遮挡] = 盖在上面，遮挡 | 2023,6,30 | 0.0 | 0 |
+| inundate | v淹没 | in[in] + und[flow] + ate[v.] flow in 淹没; ab[und]ant, red[und]ant: und[flow]是流水的意思 | 2023,6,30 | 0.0 | 0 |
+| elucidate | v阐明 | e[out]+luc[light] + idate = 放出光照亮，阐明 | 2023,6,30 | 0.0 | 0 |
+| lucid | adj有光亮的，神智清醒的 |  | 2023,6,30 | 0.0 | 0 |
+| pellucid | adj透明的，清晰明确的，易懂的 | pel[per, through] + lucid[light] = 全部有光亮lucid的,透明的，清晰明确的 | 2023,6,30 | 0.0 | 0 |
+| translucent | adj透明的 | tran[through]+luc[light] +ent = 透光的，透明的 | 2023,6,30 | 0.0 | 0 |
+| illuminate | v照明，启发 | il[in] + lumin[light] + ate 放入光，使看清 | 2023,6,30 | 0.0 | 0 |
+| illuminati | n智者 | 进入光中看清一切的人 | 2023,6,30 | 0.0 | 0 |
+| luminary | n杰出人物 | lumin[light]周围发光的人 | 2023,6,30 | 0.0 | 0 |
+| luminous | adj发光的有光泽的，杰出的，重要的 | lumin光 | 2023,6,30 | 0.0 | 0 |
+| illustrious | adj著名的，杰出的 | 发光的状态->著名的 | 2023,6,30 | 0.0 | 0 |
+| lackluster | adj黯淡无光泽的 | luster光泽 | 2023,6,30 | 0.0 | 0 |
+| lustrous | adj有光泽的 | lust强烈的性欲，luster光泽 | 2023,6,30 | 0.0 | 0 |
+| misanthropic | adj反人类的 | mis[bad] + anthrop[人类] + ic = 反人类的 | 2023,6,30 | 0.0 | 0 |
+| philanthropic | adj博爱的，为他人着想的 | phil[love] + anthrop[人类] + ic = 爱（所有）人类的，博爱的；philosophy爱智慧 | 2023,6,30 | 0.0 | 0 |
+| philistine | n非利士人；不喜欢文化艺术的人；没有文化教养的人；平庸之辈adj平庸的；不关心文化艺术的 | phil[love] + istine[否定文艺] = ；不喜欢文化艺术的人 | 2023,6,30 | 0.0 | 0 |
+| chromatic | adj彩色的 | chrom[color] | 2023,6,30 | 0.0 | 0 |
+| monochromatic | adj单色的，单调无聊的 | mono + chrom[color] | 2023,6,30 | 0.0 | 0 |
+| anachronistic | adj时代错误的 | ana[wrong] + chron[time] istic = wrong timed = 错误时代的 | 2023,6,30 | 0.0 | 0 |
+| chronic | adj经常发生的，复发的，习惯性的，不能改变的 | chronic disease 慢性病；chron[time] + ic = 经常的 | 2023,6,30 | 0.0 | 0 |
+| synchronous | adj同时期的，同步的 | syn[same相同的] + chron[time] + ous = of the same time  相同时期的，同步的 | 2023,6,30 | 0.0 | 0 |
+| effulgent | adj光辉灿烂的 | ex[out] + fulg[shine] + ent = shine out 向外照耀 | 2023,6,30 | 0.0 | 0 |
+| refulgent | adj辉煌的，灿烂的 | re[back] + fulg[shine] + ent[adj] 不断照耀 | 2023,6,30 | 0.0 | 0 |
+| flamboyant | adj鲜艳夺目的，炫耀的，充满装饰的 | flame[火] + boyant[adj] = 像火一样炫目的 | 2023,6,30 | 0.0 | 0 |
+| conflagration | 战争，冲突 | con[together] + flagr[burn] + ation = burn together n大伙，火光冲天的战争 | 2023,6,30 | 0.0 | 0 |
+| amiable | adj好脾气的，友好易相处的 | am[love] + iable | 2023,6,30 | 0.0 | 0 |
+| amicable | adj友善的 | am[love] + icable = amiable = 友善的 | 2023,6,30 | 0.0 | 0 |
+| amity | n友好关系，亲善和睦 | am[love] + ity[n] = amiable名词 | 2023,6,30 | 0.0 | 0 |
+| enamored | adj迷恋的，热爱的 | en[in] + am[love] + ored = 进入喜爱的状态 = 迷恋的，热爱的 | 2023,6,30 | 0.0 | 0 |
+| bravado | n假装勇敢 | brave[勇敢] | 2023,6,30 | 0.0 | 0 |
+| bravura | adj/n优秀演技（的） | bravo喝彩声 | 2023,6,30 | 0.0 | 0 |
+| boon | n恩惠，福利，adj喜欢集体行动的 | bonus | 2023,6,30 | 0.0 | 0 |
+| bonhomie | n温和，和蔼 | homie兄弟 | 2023,6,30 | 0.0 | 0 |
+| candor | n坦白真诚 | candle蜡烛 | 2023,6,30 | 0.0 | 0 |
+| incandescent | adj明亮的，热情饱满的，感情强烈的 | in[in] + cand[candle] + escent  = 像蜡烛一样燃烧灿烂的 | 2023,6,30 | 0.0 | 0 |
+| kindle | v点燃 |  | 2023,6,30 | 0.0 | 0 |
+| effervesce | 冒泡，兴奋热情洋溢 | ef[out] + ferv[hot] + esce[v] = 热到极致冒泡，兴奋热情洋 | 2023,6,30 | 0.0 | 0 |
+| fervent | adj充满感情的，热情洋溢的 | ferv[hot] | 2023,6,30 | 0.0 | 0 |
+| fervid | adj酷热的，人的态度热情的 | ferv[hot] | 2023,6,30 | 0.0 | 0 |
+| fervor | n热情，狂热 |  | 2023,6,30 | 0.0 | 0 |
+| perfervid | adj非常热情的 | per[throughtly] + fervid[热情的] = 极度热情的 | 2023,6,30 | 0.0 | 0 |
+| libertine | n放荡不羁的人 | liber[free] + ... = 放荡不羁的人 | 2023,6,30 | 0.0 | 0 |
+| liberal | adj慷慨的，大方的 | adj思想前卫的 | 2023,6,30 | 0.0 | 0 |
+| ad-lib | adj即兴的 |  | 2023,6,30 | 0.0 | 0 |
+| novice | n新手，初学者 |  | 2023,6,30 | 0.0 | 0 |
+| renovate | v修复，维修，使重获新生 | re[again] = novate[new]使重获新生 | 2023,6,30 | 0.0 | 0 |
+| expiate | v赎罪， 纠正 | ex[former] + pi[devout忠诚] + ate[v] 使回到之前的忠诚->赎罪，纠正 | 2023,6,30 | 0.0 | 0 |
+| impious | adj不敬神的 |  | 2023,6,30 | 0.0 | 0 |
+| pious | adj虔诚的，忠诚的 | pi[devout] + ous | 2023,6,30 | 0.0 | 0 |
+| rectitude | n正直 | rect[right] + itude [n] | 2023,6,30 | 0.0 | 0 |
+| resurrect | v使重生，复苏 | re | 2023,6,30 | 0.0 | 0 |
+| incorrigible | adj不可救药的，积习难改的 | in[not] + corrig[correct] + ile  = 难以改正的 | 2023,6,30 | 0.0 | 0 |
+| credence | n坚信 | cred[believe] + ence 很相信 | 2023,6,30 | 0.0 | 0 |
+| credible | adj可信的 |  | 2023,6,30 | 0.0 | 0 |
+| credit | n赞扬表扬 | A | 2023,6,30 | 0.0 | 0 |
+| credulous | adj轻信的，易被骗的 | cred[trust] ulous[过多的] = 过多的信任别人就是轻信的，易被骗的 | 2023,6,30 | 0.0 | 0 |
+| discredit | v怀疑，不相信， 使丧失名誉 | dis + credit | 2023,6,30 | 0.0 | 0 |
+| diffident | adj不自信的，内向的 | dis confident | 2023,6,30 | 0.0 | 0 |
+| fidelity | n忠诚 | faith信仰 | 2023,6,30 | 0.0 | 0 |
+| perfidy | n不忠背信弃义 |  | 2023,6,30 | 0.0 | 0 |
+| abase | v降低（地位，职位，尊严） |  | 2023,6,30 | 0.0 | 0 |
+| debase | v贬低，贬损 | de[down] + base[底部] 贬低，贬损 | 2023,6,30 | 0.0 | 0 |
+| self-abasement | n自谦，自卑 | abase降低 | 2023,6,30 | 0.0 | 0 |
+| abysmal | adj程度很深，极端的，极低的adj可怜的 | abase降低地位 | 2023,6,30 | 0.0 | 0 |
+| culpable | adj受到谴责的，有罪的 | culp[guilt] + able[adj] 受到谴责的 | 2023,6,30 | 0.0 | 0 |
+| exculpate | v声明无罪，开脱，使无罪 | ex[out] + culpate[guilt] = v声明无罪 | 2023,6,30 | 0.0 | 0 |
+| inculpate | v归罪于 | in[in] + culpate[guilt] 给某人罪行 | 2023,6,30 | 0.0 | 0 |
+| contumacious | adj不服从的，倔强的 |  | 2023,6,30 | 0.0 | 0 |
+| tumult | n暴动，骚动 |  | 2023,6,30 | 0.0 | 0 |
+| innocuous | adj无害的，乏味的，不会引起敌意的 | in[not] + noc[hurt] +ous[adj]无害的 | 2023,6,30 | 0.0 | 0 |
+| noxious | adj有害的 |  | 2023,6,30 | 0.0 | 0 |
+| pernicious | adj有害的 | per[throughtly] + nic[noc, hurt] + ous有害的 | 2023,6,30 | 0.0 | 0 |
+| noisome | adj恶臭的，令人厌恶的 |  | 2023,6,30 | 0.0 | 0 |
+| perturb | v使扰乱，使烦躁不安 | per + turb[disturb弄乱] | 2023,6,30 | 0.0 | 0 |
+| imperturbable | adj沉着冷静的，淡定的 | im[not] + perturb[使扰乱] + able = 不扰乱= 沉着冷静的，淡定的 | 2023,6,30 | 0.0 | 0 |
+| turbid | adj浑浊的 | turb[disturb] id 搅乱的泥水，浑浊的 | 2023,6,30 | 0.0 | 0 |
+| turbulent | adj湍急汹涌的 | turb[disturb] + ulent | 2023,6,30 | 0.0 | 0 |
+| extricate | v使解脱，救出 | ex[out] + tric[trick] + ate逃出诡计 | 2023,6,30 | 0.0 | 0 |
+| treacherous | adj背叛的 | treach[trick欺骗的] erous欺骗的 | 2023,6,30 | 0.0 | 0 |
+| timorous | adj胆小的，害怕的 | tim[fear] orous | 2023,6,30 | 0.0 | 0 |
+| intimidate | v威吓 | in[in] + tim[害怕] +idate[v.] v 威吓 | 2023,6,30 | 0.0 | 0 |
+| damn | v（在道德上）谴责 |  | 2023,6,30 | 0.0 | 0 |
+| condemn | v谴责（...不道德） | con[加强语气] + demn[damn] | 2023,6,30 | 0.0 | 0 |
+| indemnity | n（损害，伤害等的）保险赔偿 | abject | 2023,6,30 | 0.0 | 0 |
+| abject | adj无精打采的，悲惨的，凄凉的，卑微的，讨好的 |  | 2023,6,30 | 0.0 | 0 |
+| conjecture | n推测，猜测，估计，没根据的估计 |  | 2023,6,30 | 0.0 | 0 |
+| deject | v使沮丧 | de[down] + ject[throw] = throw ... down | 2023,6,30 | 0.0 | 0 |
+| project | v预测预计 | n方案计划 | 2023,6,30 | 0.0 | 0 |
+| subject | n臣民，受支配的人，adj取决于其他因素的 |  | 2023,6,30 | 0.0 | 0 |
+| jettison | v丢弃 | jet[ject, throw] + ison | 2023,6,30 | 0.0 | 0 |
+| jocular | adj搞笑的，欢乐的 |  | 2023,6,30 | 0.0 | 0 |
+| jocund | adj欢快的，高兴的 | jovial愉快的 | 2023,6,30 | 0.0 | 0 |
+| jovial | 愉快的 | jocund，欢快的，高兴的 | 2023,6,30 | 0.0 | 0 |
+| adjunct | n附属物，非必需的部分 | ad[to] + junct[join] | 2023,6,30 | 0.0 | 0 |
+| disjunctive | adj分离的 | dis + junct[join] + ive | 2023,6,30 | 0.0 | 0 |
+| abjure | v发誓放弃，抵制，避免 |  | 2023,6,30 | 0.0 | 0 |
+| conjure | v请求，恳求，在脑中浮现 |  | 2023,6,30 | 0.0 | 0 |
+| disjointed | adj机能失调的 | 不连贯的 | 2023,6,30 | 0.0 | 0 |
+| judicious | adj明智的，慎重的 | judge + ious = 慎重的判断，明智的判断 | 2023,6,30 | 0.0 | 0 |
+| adjudicate | v裁决，判定 |  | 2023,6,30 | 0.0 | 0 |
+| evacuate | v撤空，撤退 | e[ex] + vac[empty] + ate = 出空 | 2023,6,30 | 0.0 | 0 |
+| vacuous | 迷茫，茫然，愚蠢的 | vac[empty] + ous 头脑空空 | 2023,6,30 | 0.0 | 0 |
+| evanescent | adj逐渐消失的，短暂的 | e[ex] + van[empty] + escent[逐渐] = 逐渐变空 = 逐渐消失 | 2023,6,30 | 0.0 | 0 |
+| ambivalent | adj感情矛盾的，态度矛盾的 | ambi[both] + val[strong] ent = 对立的观点都很有道理 | 2023,6,30 | 0.0 | 0 |
+| convalesce | v渐渐康复 | con + val[strong] + esce[逐渐] | 2023,6,30 | 0.0 | 0 |
+| equivalent | adj/n等价的 |  | 2023,6,30 | 0.0 | 0 |
+| previal | v战胜，盛行 | prevalent流行 | 2023,6,30 | 0.0 | 0 |
+| unavailing | adj徒劳的，无果的 |  | 2023,6,30 | 0.0 | 0 |
+| valiant | adj勇敢的，英勇的 | val[strong] | 2023,6,30 | 0.0 | 0 |
+| valid | adj逻辑上正确的 |  | 2023,6,30 | 0.0 | 0 |
+| veracious | adj诚实的，说实话的，精准的 | ver[true] + acious[adj] 说实话的 | 2023,6,30 | 0.0 | 0 |
+| verisimilar | adj似乎真实的 | ver[true] + sim[like] + ilar 很像真的 | 2023,6,30 | 0.0 | 0 |
+| veritable | adj真正的，确实的 | ver[true] + it able 真正的 | 2023,6,30 | 0.0 | 0 |
+| volition | n意志，自愿选择的行为 | vol[will意志] | 2023,6,30 | 0.0 | 0 |
+| malevolent | adj恶毒，恶意的 | mal[bad] mal[bad] + vol[will] + ent 坏心思 = adj恶意的 | 2023,6,30 | 0.0 | 0 |
+| recidivate | v回到原先的习惯 | 重新犯罪re[back] + cid[fall] ivate = fall back again | 2023,6,30 | 0.0 | 0 |
+| cascade | n瀑布 | cas[fall] + cad[fall] = fall | 2023,6,30 | 0.0 | 0 |
+| decadent | adj堕落的，腐败的，道德上堕落的，放纵的人 | de[down] + cad[fall] + ent = fall down | 2023,6,30 | 0.0 | 0 |
+| lapse | v 结束终止 | laps[fall] + e | 2023,6,30 | 0.0 | 0 |
+| collapse | v/n 突然倒塌或收缩，完全耗尽体力 |  | 2023,6,30 | 0.0 | 0 |
+| relapse | v再犯（错误） | re + laps[fall] e = recidivate再堕落了 | 2023,6,30 | 0.0 | 0 |
+| fallacious | adj欺骗性的 | fallacy谬论 | 2023,6,30 | 0.0 | 0 |
+| fallible | adj可能出错的 | fall[false + ible[able] | 2023,6,30 | 0 | 0 |
+| felony | n重罪 |  | 2023,6,30 | 0 | 0 |
+| ascendant | adj上升的，有影响力的，主宰的 | a + scend[climb] + ant = climb up 向上爬 = 上升的 | 2023,6,30 | 0 | 0 |
+| crescendo | n/v渐强，达到顶峰 | cre[increase] + scend[climb] = 慢慢上升 | 2023,6,30 | 0 | 0 |
+| descend | v世代相传 | de[向下] + scend[climb] = pass down; v下降 | 2023,6,30 | 0 | 0 |
+| condescending | adj摆出高人一档的姿态 | con[加强语气] + descending = 由高到低的态度 = 高人一档的态度 | 2023,6,30 | 0 | 0 |
+| transcend | v超过，超过极限 | trans[acrosee] + scend[climb]  | 2023,6,30 | 0 | 0 |
+| insurgent | n叛乱分子 | in[in] + surg[rise] + ent = 再内部兴起（揭竿而起） = 叛乱分子 | 2023,6,30 | 0 | 0 |
+| resurgence | n复兴 | re[again] + surg[rise] + ence = 再一次崛起 = 复兴 | 2023,6,30 | 0 | 0 |
+| incite | v煽动，激起 | in[in] + cit[arouse] + e = v 煽动 | 2023,6,30 | 0 | 0 |
+| resuscitate | v使复活，唤醒 | re[again] + sus + cit[excite, 激活] + ate[v] = 重新激活 = 唤醒 | 2023,6,30 | 0 | 0 |
+| solicitous | adj迫切的，渴望的，为他人操心的，体谅他人的 | sol[所有] + i + cit[excite] + ous[adj] = 所有被激发的 = 迫切的，渴望的 | 2023,6,30 | 0 | 0 |
+| commotion | n骚乱 | com[together] + mot[move] + ion 所有一起动 | 2023,6,30 | 0 | 0 |
+| demote | v降职，降级 | de[down] + mot[move] e | 2023,6,30 | 0 | 0 |
+| motile | adj能动的 |  | 2023,6,30 | 0 | 0 |
+| allude | v间接提到 |  | 2023,6,30 | 0 | 0 |
+| collude | v串通，共谋，做坏事 | col[together] + lud[play] | 2023,6,30 | 0 | 0 |
+| elude | v躲闪，躲避，使无法理解，使困惑 |  | 2023,6,30 | 0 | 0 |
+| ludicrous | adj荒唐的，可笑的 | lud[play] + ic + r + ous  | 2023,6,30 | 0 | 0 |
+| delusion | n错觉，妄想 | illusion幻觉 | 2023,6,30 | 0 | 0 |
+| defer | v推迟，延期，顺从， | de[down] + fer[carry] 向下带 = 延期; deference n 遵从， 顺从 | 2023,6,30 | 0 | 0 |
+| indifferent | adj中规中矩的，一般的 | 不感兴趣的 | 2023,6,30 | 0 | 0 |
+| proffer | v/n献出， 提供 | pro[forth] + offer[给] | 2023,6,30 | 0 | 0 |
+| referee | v（就纠纷）给出意见 | 裁判 | 2023,6,30 | 0 | 0 |
+| peripheral | adj外围的，辅助性的 | peri[around] + pher[fer, carry] 在外围carry的，打辅助的 | 2023,6,30 | 0 | 0 |
+| euphoria | n极其愉快 |  | 2023,6,30 | 0 | 0 |
+| aphorism | n格言 |  | 2023,6,30 | 0 | 0 |
+| belligerent | adj好斗的，好战的 | bell[rebell叛乱,war] + i + gerent[generate] = 产生战争 = 好战的； belligerence n 好斗，好战 | 2023,6,30 | 0 | 0 |
+| importunate | adj. 讨厌的；急切的；缠扰不休的 | im[not] + port[harbor] 没有港口的 = 急切的； importune v 迫切请求，哀求 | 2023,6,30 | 0 | 0 |
+| importune | v哀求，迫切请求 |  | 2023,6,30 | 0 | 0 |
+| deportation | n放逐 | de[away] + port[carry] + ation = carry sb away | 2023,6,30 | 0 | 0 |
+| rapport | n和睦，友好 | re[again] + pport[港口] 反复来往的 说明关系好，和睦 | 2023,6,30 | 0 | 0 |
+| acquire | v获得，获取 |  | 2023,6,30 | 0 | 0 |
+| acquisitive | adj贪婪的 | acquire | 2023,6,30 | 0 | 0 |
+| exquisite | adj精致精巧的，程度强烈的 | ex[out] + quis[ask, question] = 问了好多问题说明挑选很精致，程度很强烈 | 2023,6,30 | 0 | 0 |
+| inquisitive | adj过分好奇的 | in[into] + quis[ask] + ive[adj] 深入的询问一件事情 = 过分好奇的 | 2023,6,30 | 0 | 0 |
+| perquisite | n额外的好处 | per[through] + quis[seek] + ite = seek through 通过寻求而得到额外的好处 | 2023,6,30 | 0 | 0 |
+| requisite | adj必不可少的，必备的，必需品 |  | 2023,6,30 | 0 | 0 |
+| prerequisite | n先决条件 |  | 2023,6,30 | 0 | 0 |
+| engender | v引起，使发展， 产生，出现 | en[make] + gen[generate] + er | 2023,6,30 | 0 | 0 |
+| indigenous | adj土产的，与生俱来的，先天的 | indi[in地] + gen[generate] + ous  = 在本地产生的 | 2023,6,30 | 0 | 0 |
+| ingenious | adj聪明的，有创造才能的 | in + gen[generate] + ous 头脑中产生的 = 聪明的 | 2023,6,30 | 0 | 0 |
+| ingenuous | adj天真纯朴的，坦白的 | 区分:[nu]genuine诚恳的；[ni]：ingenious聪明的，genius天才 | 2023,6,30 | 0 | 0 |
+| homogenize | v使统一化 | homo + genize[generate] 统一生成 = 统一化 | 2023,6,30 | 0 | 0 |
+| regenerate | v重获新生 | re + generate | 2023,6,30 | 0 | 0 |
+| genial | adj和蔼亲切的，友好的，热心的，温暖的 | congenial adj 友善的，令人愉悦的 | 2023,6,30 | 0 | 0 |
+| genteel | adj有教养的，不粗俗的 | gentle绅士 | 2023,6,30 | 0 | 0 |
+| benign | adj好心的，善良的，无害的 | be + nign[nice] = be nice | 2023,6,30 | 0 | 0 |
+| malign | adj恶意的，v诽谤 | mal[bad] + benign 坏心的 | 2023,6,30 | 0 | 0 |
+| pregnant | adj重要的，意味深长的 | 怀孕的 | 2023,6,30 | 0 | 0 |
+| compendium | n摘要，目录 | com[together] + pend[hang] + ium [n] 挂起各种东西一起 | 2023,6,30 | 0 | 0 |
+| dependable | adj值得信赖的 |  | 2023,6,30 | 0 | 0 |
+| indispensable | adj不可缺少的 |  | 2023,6,30 | 0 | 0 |
+| impending | adj即将发生的 | im[in] + pending[hang] 悬在半空的 = 马上掉下 = 即将发生的 | 2023,6,30 | 0 | 0 |
+| propensity | n倾向，批号 | pro[forth] + pens[hang] + ity = 挂到前面优先的事物有偏好 | 2023,6,30 | 0 | 0 |
+| suspend | v悬挂 |  | 2023,6,30 | 0 | 0 |
+| pensive | adj沉思的 |  | 2023,6,30 | 0 | 0 |
+| complementary | adj互补的 | com[together] + ple[fill] + mentary = 相互填补的 | 2023,6,30 | 0 | 0 |
+| deplete | v耗尽， 使衰竭 | de[away] + plet[fill] + e 原理装满的状态，清空 | 2023,6,30 | 0 | 0 |
+| implement | v执行实施 | A | 2023,6,30 | 0 | 0 |
+| replenish | v补充 | re[again] + plen[fill] + ish[v] 再一次填充 | 2023,6,30 | 0 | 0 |
+| replete | adj彻底吃饱了的，充满的，富于的 |  | 2023,6,30 | 0 | 0 |
+| plebeian | adj平民的，社会下层的 | ple[fill, plenty] + beian [being] 大量的人类阶级 = 平民的，社会下层的 | 2023,6,30 | 0 | 0 |
+| plentitude | n大量 |  | 2023,6,30 | 0 | 0 |
+| approbation | n同意 | approval n 赞成 | 2023,6,30 | 0 | 0 |
+| disprove | v证明为假，反驳 | dis + prove | 2023,6,30 | 0 | 0 |
+| probe | v/n深入调查 |  | 2023,6,30 | 0 | 0 |
+| probity | n正直 | prob[prove] + ity可以经得住考验的 | 2023,6,30 | 0 | 0 |
+| reprobate | n堕落的人，道德败坏的人，adj堕落的，放荡的，v拒绝，不提供，谴责，痛斥 | re[against] + prov[prove-> 正直] 不正直，堕落 | 2023,6,30 | 0 | 0 |
+| reprove | v温和的责备，不欣赏，不喜欢 | re[against] + prov[prove] | 2023,6,30 | 0 | 0 |
+| proofread | v校对 | 为了证实而阅读 | 2023,6,30 | 0 | 0 |
+| consequence | n结果，重要性，价值 | inconsequential不重要的 | 2023,6,30 | 0 | 0 |
+| obsequious | adj谄媚的，奴性的 | ob[toward] + sequ[forward] + ious 迎合的 | 2023,6,30 | 0 | 0 |
+| prosecution | n执行，实行 | pro[forth] + secu[follow] + tion [n] = 按照计划做，实行 | 2023,6,30 | 0 | 0 |
+| persecute | v迫害折磨 | per[through] + secu[follow] + tion[n] 按照计划向前做 | 2023,6,30 | 0 | 0 |
+| conserve | v保存，避免浪费 |  | 2023,6,30 | 0 | 0 |
+| conservatory | n温室，艺术学院 |  | 2023,6,30 | 0 | 0 |
+| conservative | adj守旧的，不愿改变的，adj不招摇的，低调的，adj谨慎小心的 |  | 2023,6,30 | 0 | 0 |
+| observant | adj警惕的，严格遵守的 |  | 2023,6,30 | 0 | 0 |
+| preservative | n 防腐剂 |  | 2023,6,30 | 0 | 0 |
+| reserved | adj内向的，缄默的 | pre[before] + serv[keep] + ative | 2023,6,30 | 0 | 0 |
+| servile | adj低下的 | serve服务，slave奴隶 | 2023,6,30 | 0 | 0 |
+| subservient | adj奉承的，屈从的 | sub[under] + serv[serve]+ ient 在下面服务的 | 2023,6,30 | 0 | 0 |
+| complacent | adj自满的，自鸣得意的，无所谓的，不关心的 | com + plac[please] + ent 高兴到自满，而无所谓自鸣得意的 | 2023,6,30 | 0 | 0 |
+| implacable | adj固执的，无法平息的 | im[not] + pla[please] + able | 2023,6,30 | 0 | 0 |
+| placate | v通过让步平息抚慰 | pla[please] + ate | 2023,6,30 | 0 | 0 |
